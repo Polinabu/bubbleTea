@@ -1,0 +1,183 @@
+.jumbotron {
+    background: rgb(138, 225, 230);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(138, 225, 230, 1) 0%, rgba(215, 243, 245, 1) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(138, 225, 230, 1) 0%, rgba(215, 243, 245, 1) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(138, 225, 230, 1) 0%, rgba(215, 243, 245, 1) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#8ae1e6', endColorstr='#d7f3f5', GradientType=0);
+    /* IE6-9 */
+}
+
+h1 {
+    padding-top: 40px;
+    font-family: 'Muli', sans-serif;
+    text-align: center;
+    color: rgb(64, 64, 64);
+}
+
+.panel-primary {
+    border-color: rgb(191, 191, 191);
+}
+
+.panel-primary > .panel-heading {
+    border: none;
+}
+
+.panel-heading {
+    border-color: rgb(191, 191, 191);
+    font-family: 'Muli', sans-serif;
+    text-align: center;
+    background: rgb(255, 191, 191);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(255, 191, 191, 1) 0%, rgba(188, 149, 149, 1) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(255, 191, 191, 1) 0%, rgba(188, 149, 149, 1) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(255, 191, 191, 1) 0%, rgba(188, 149, 149, 1) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffbfbf', endColorstr='#bc9595', GradientType=0);
+    /* IE6-9 */
+}
+
+.panel-body {
+    height: 350px;
+}
+
+h3 {
+    text-align: center;
+    font-size: medium;
+}
+
+h2 {
+    text-align: center;
+    font-size: small;
+    line-height: 1.2;
+}
+
+.actualsize {
+    background-image: block;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 200px;
+}
+
+.btn-primary {
+    margin: auto;
+    width: 35px;
+    text-align: center;
+    border-radius: 24px;
+    background-color: #ddd;
+}
+
+.glyphicon-heart:before {
+    color: hsla(0, 71%, 48%, 0.73);
+}
+
+.btn-primary:hover {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(188, 72%, 80%);
+    border-color: hsl(208, 57%, 29%);
+}
+
+.normalsize_img1 {
+    background: url(../images/btpink.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img2 {
+    background: url(../images/btlightgreen2.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img3 {
+    background: url(../images/btbrown.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img4 {
+    background: url(../images/btyellow.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img5 {
+    background: url(../images/btgreen.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img6 {
+    background: url(../images/btwhitejpg.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img7 {
+    background: url(../images/13137677_f520.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img8 {
+    background: url(../images/a52dc43bf8c1ad0b2ac45eb6c051050b.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img9 {
+    background: url(../images/bubble.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img10 {
+    background: url(../images/94713d2cda5a5c932f6d10e45ff3cd12.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img11 {
+    background: url(../images/14555075_b.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
+
+.normalsize_img12 {
+    background: url(../images/03-15-51_mango-bubble-tea_original.jpg);
+    height: 200px;
+    width: 157px;
+    background-size: cover;
+    margin: auto;
+}
